@@ -63,9 +63,9 @@ Many of the battle scenes were filmed in **Ireland**, where the landscapes perfe
 ---
 
 ## Made By
-**Student Name:** [Your Name]  
-**Course/Section:** [Your Course or Class Code]  
-**School:** [Your School Name]  
+**Student Name:** Prince vivor B. Malasa
+**Course/Section:** BSIT 31A
+**School:** STI College Tagaytay
 
 ---
 
